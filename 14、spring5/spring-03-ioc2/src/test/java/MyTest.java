@@ -8,9 +8,9 @@ public class MyTest {
         ApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
         User user = (User) context.getBean("user");
         //别名
-        //User user = (User) context.getBean("aaaaaa");
+        User user1 = (User) context.getBean("aaaaaa");
         UserT user2=(UserT)context.getBean("ccc");
-
+        user1.show();
         user.show();
         user2.show();
     }

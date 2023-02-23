@@ -9,5 +9,6 @@
 <!-- p命名空间注入，可以直接注入属性的值：property-->
     <bean id="user" class="com.lin.pojo.User" p:name="林" p:age="23"/>
 <!-- c命名空间注入，可以通过构造器注入：constructs-args-->
-    <bean id="user2" class="com.lin.pojo.User" c:age="23" c:name="lin"/>
+    <bean id="user2" class="com.lin.pojo.User" c:age="23" c:name="lin" scope="singleton"/>
+
 </beans>

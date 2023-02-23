@@ -26,6 +26,8 @@ SSM  SpringMVC Spring Mybatis
 
  GitHub : https://github.com/spring-projects
 
+官方说明文档：https://docs.spring.io/spring-framework/docs/5.2.0.RELEASE/spring-framework-reference/core.html#beans-c-namespace
+
 导入相关包
 
 ```java

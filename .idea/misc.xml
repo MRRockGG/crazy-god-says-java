@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/13、mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/14、spring5/pom.xml" />
+        <option value="$PROJECT_DIR$/17、Shiro入门/源码/springboot-06-security/pom.xml" />
+        <option value="$PROJECT_DIR$/15、spring-mvc/pom.xml" />
+        <option value="$PROJECT_DIR$/17、springboot/SpringBoot/helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/17、springboot/SpringBoot/swagger-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/17、springboot/SpringBoot/my-site-master/pom.xml" />
+        <option value="$PROJECT_DIR$/17、springboot/SpringBoot/dubbo + zookeeper/consumer-server/pom.xml" />
+        <option value="$PROJECT_DIR$/17、springboot/SpringBoot/dubbo + zookeeper/provider-server/pom.xml" />
+        <option value="$PROJECT_DIR$/17、springboot/SpringBoot/springboot-03-web/pom.xml" />
+        <option value="$PROJECT_DIR$/17、springboot/SpringBoot/springboot-04-web/pom.xml" />
+        <option value="$PROJECT_DIR$/17、springboot/SpringBoot/springboot-04-data/pom.xml" />
+        <option value="$PROJECT_DIR$/17、springboot/SpringBoot/springboot-08-test/pom.xml" />
+        <option value="$PROJECT_DIR$/17、springboot/SpringBoot/springboot-08-shiro/pom.xml" />
+        <option value="$PROJECT_DIR$/17、springboot/SpringBoot/springboot-02-config/pom.xml" />
+        <option value="$PROJECT_DIR$/17、springboot/SpringBoot/springboot-02-configu/pom.xml" />
+        <option value="$PROJECT_DIR$/17、springboot/SpringBoot/springboot-05-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/17、springboot/SpringBoot/springboot-06-security/pom.xml" />
+        <option value="$PROJECT_DIR$/17、springboot/SpringBoot/springboot-01-helloword/pom.xml" />
+        <option value="$PROJECT_DIR$/31、MyBatisPlus/代码/mybatis-plus/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

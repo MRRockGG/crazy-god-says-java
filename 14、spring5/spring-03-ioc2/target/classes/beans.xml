@@ -19,6 +19,7 @@
 <!--有参 3.参数名 -->
     <bean id="user" class="com.lin.pojo.User">
         <constructor-arg name="name" value="lin"/>
+        <constructor-arg name="name1" value="dadada"/>
     </bean>
 
 

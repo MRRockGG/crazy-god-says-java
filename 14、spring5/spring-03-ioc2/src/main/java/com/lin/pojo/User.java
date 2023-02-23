@@ -3,8 +3,9 @@ package com.lin.pojo;
 public class User {
     private String name;
 
-    public User(String name) {
+    public User(String name,String name1) {
         this.name = name;
+        System.out.println(name1);
     }
 
     public String getName() {

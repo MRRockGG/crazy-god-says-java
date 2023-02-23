@@ -10,5 +10,4 @@
     <bean id="UserServiceImpl" class="com.lin.service.UserServiceImpl">
         <property name="userDao" ref="MysqlImpl"/>
     </bean>
-
 </beans>
